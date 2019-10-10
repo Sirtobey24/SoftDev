@@ -1,0 +1,7 @@
+Employee{name= Daniel, salary= $98476.22}
+Employee{name= Sean, salary= $221133.55}
+Employee{name= Jose, salary= $352109.0}
+Employee{name= Juan, salary= $452198.7}
+Employee{name= James, salary= $1000000.42}
+Employee{name= Ryan, salary= $1854123.77}
+Employee{name= Oscar, salary= $7654321.89}
